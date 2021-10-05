@@ -1,11 +1,28 @@
 
 ```console
 $ ghfetch
-                      runner@eb8742cf3531
-                      os      Ubuntu
-                      arch    x86_64
-                      kern    5.11.0-1020-gcp
-                      uptime  17:43:48
-                      
+            ,-~¨^  ^¨-,           _,
+           /          / ;^-._...,¨/
+          /          / /         /
+         /          / /         /
+        /          / /         /
+       /,.-:''-,_ / /         /
+       _,.-:--._ ^ ^:-._ __../
+     /^         / /¨:.._¨__.;
+    /          / /      ^  /
+   /          / /         /
+  /          / /         /
+ /_,.--:^-._/ /         /
+^            ^¨¨-.___.:^ 
+
+
+ Username               ~> accomplis 
+ Date                   ~> 2021-10-05 
+ OS                     ~> Windows 11
+ Uptime                 ~> 2021-10-05 17:30:14 
+ Languages              ~> JS PY 
+ Discord                ~> Null
+ Skids                  ~> Ur mum :) 
+
                                           
 ```
